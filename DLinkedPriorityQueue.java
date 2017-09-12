@@ -2,7 +2,7 @@
  * 
  * CS1027-Assignment3
  * 
- * @author Fatima Hasan uwo id: 250895618 uwo email: fhasan7@uwo.ca This class
+ * @author Fatima Hasan  This class
  *         implements all the methods in the PriorityQueueADT.java interface and
  *         it will store the data items of the priority queue in a doubly linked
  *         list. it will have 3 private instance variables:front, rear, and
