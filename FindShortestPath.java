@@ -1,7 +1,7 @@
 
 /**
  * CS1027-Assignment3
- * @author Fatima Hasan uwo id: 250895618 uwo email: fhasan7@uwo.ca
+ * @author Fatima Hasan 
  * This class will implement the algorithm to compute a shortest path from the initial chamber to the exit.  
  */
 
