@@ -1,7 +1,7 @@
 /**
  * CS1027-Assignment3
  * 
- * @author Fatima Hasan uwo id: 250895618 uwo email: fhasan7@uwo.ca
+ * @author Fatima Hasan 
  * @param <T>
  *            This class has four instance variables, element, next, prev, and
  *            priority, and it represents the nodes of the doubly linked list
